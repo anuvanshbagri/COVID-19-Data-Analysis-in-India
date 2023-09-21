@@ -158,3 +158,7 @@ Thank you for contributing to this project!
 ## Contributors
 
 - Anuvansh Kumar (owner)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
